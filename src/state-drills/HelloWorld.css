@@ -1,0 +1,10 @@
+.button-div {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
+
+p.hello {
+    text-align:center;
+    font-size:30px;
+}
