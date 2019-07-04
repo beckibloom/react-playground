@@ -1,0 +1,23 @@
+.accordion {
+    list-style-type:none;
+    border:1px solid blue;
+    margin:0;
+    padding:0;
+}
+
+.accordion button {
+    background:navy;
+    color:white;
+    border:1px solid blue;
+    width:100%;
+    text-align:left;
+    margin:0;
+    padding:10px;
+}
+
+.accordion p {
+    margin:0;
+    padding:0;
+    text-align:center;
+    line-height:40px;
+}
